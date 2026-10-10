@@ -138,7 +138,7 @@ fixing the numbers:
   how much the linearity assumption is costing.
 - **Notebook, not a pipeline.** Nothing here is reproducible by script or
   testable. I have since written that up properly — see
-  [ames-house-prices-](https://github.com/apoorva2121/ames-house-prices-), which
+  [ames-house-prices](https://github.com/apoorva2121/ames-house-prices), which
   solves the same class of problem with a config-driven pipeline, out-of-fold
   blending and a leakage audit.
 
