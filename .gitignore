@@ -1,0 +1,19 @@
+# --- credentials: never commit these ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- os / editor noise ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
